@@ -1,0 +1,7 @@
+C:\Users\mivy\source\repos\DataStructures_Practice\DataStructures_LinkedLIst\DataStructures_LinkedLIst\bin\Debug\DataStructures_LinkedLIst.exe.config
+C:\Users\mivy\source\repos\DataStructures_Practice\DataStructures_LinkedLIst\DataStructures_LinkedLIst\bin\Debug\DataStructures_LinkedLIst.exe
+C:\Users\mivy\source\repos\DataStructures_Practice\DataStructures_LinkedLIst\DataStructures_LinkedLIst\bin\Debug\DataStructures_LinkedLIst.pdb
+C:\Users\mivy\source\repos\DataStructures_Practice\DataStructures_LinkedLIst\DataStructures_LinkedLIst\obj\Debug\DataStructures_LinkedLIst.csprojAssemblyReference.cache
+C:\Users\mivy\source\repos\DataStructures_Practice\DataStructures_LinkedLIst\DataStructures_LinkedLIst\obj\Debug\DataStructures_LinkedLIst.csproj.CoreCompileInputs.cache
+C:\Users\mivy\source\repos\DataStructures_Practice\DataStructures_LinkedLIst\DataStructures_LinkedLIst\obj\Debug\DataStructures_LinkedLIst.exe
+C:\Users\mivy\source\repos\DataStructures_Practice\DataStructures_LinkedLIst\DataStructures_LinkedLIst\obj\Debug\DataStructures_LinkedLIst.pdb
